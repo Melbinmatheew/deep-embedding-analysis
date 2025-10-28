@@ -1,0 +1,10 @@
+transformers
+torch
+pillow
+kagglehub
+plotly
+numpy
+ipython
+scikit-learn
+huggingface_hub[hf_xet]
+torchvision
